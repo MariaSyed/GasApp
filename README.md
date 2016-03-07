@@ -22,3 +22,7 @@ From the main activity window there is also be a way to get to the third activit
 where the date, odometer and fuel amount information are shown in a scrollable list for
 checking the entered values in general.
 
+Official Tank buddy logo
+
+![alt tag](https://raw.githubusercontent.com/MariaSyed/Tank-Buddy/master/path/to/tankbuddylogo.png)
+
