@@ -24,5 +24,5 @@ checking the entered values in general.
 
 Official Tank buddy logo
 
-![alt tag](https://raw.githubusercontent.com/MariaSyed/Tank-Buddy/master/path/to/tankbuddylogo.png)
+![alt tag](https://github.com/MariaSyed/Tank-Buddy/blob/master/tankbuddylogo.png)
 
